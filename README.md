@@ -1,4 +1,4 @@
-# ![pwa-weather-app](./public/index.html) 
+# [pwa-weather-app](./public/index.html) 
 Example React based weather app with two different service worker implementations.
 
 The master branch contains the basic react based weather app without any PWA caching features.
